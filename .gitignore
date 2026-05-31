@@ -1,0 +1,16 @@
+# Visual Studio
+*.suo
+*.user
+*.vs/
+.vs/
+obj/
+Debug/
+Release/
+
+# 临时文件
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
